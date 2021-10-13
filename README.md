@@ -29,3 +29,6 @@
 - https://dsbook.tistory.com/321 (논문리뷰)
 
 ## 3. BERT
+
+논문
+- https://arxiv.org/abs/1810.04805
