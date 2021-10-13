@@ -35,3 +35,4 @@
 
 참고 블로그
 - http://yonghee.io/bert_binary_classification_naver/ (BERT로 영화리뷰데이터 분류)
+- https://ebbnflow.tistory.com/163?category=895676 (캐글문제 분류)
