@@ -32,3 +32,6 @@
 
 논문
 - https://arxiv.org/abs/1810.04805
+
+참고 블로그
+- http://yonghee.io/bert_binary_classification_naver/ (BERT로 영화리뷰데이터 분류)
