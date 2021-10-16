@@ -91,7 +91,7 @@ encoder는 input sequence (x_1,...,x_n)에 대해 다른 representation인 z=(z_
 
 #### 2) Decoder
 
-- 첫번째 Attention : Self Attention. 인코더의 Attention과 마찬가지로 단어들이 서로가 서로에게 어떤 가중치를 가지는지 구하도록 만듦. 
+- 첫번째 Attention :  Self Attention. 인코더의 Attention과 마찬가지로 단어들이 서로가 서로에게 어떤 가중치를 가지는지 구하도록 만듦. 
 - 두번째 Attention : Encoder-Decoder Attention. 인코더에 대한 정보를 attention함. 각각의 출력되고있는 단어가 소스문장에서의 어떤 단어와 연관성이 있는지 구해줌. (ex. teacher라는 단어가 전체문장 i'm a teacher.의 어떤 다른 단어와 연관성이 가장 높은지 알 수 있음)
 - 트랜스포머에서는 마지막 인코더 레이어의 출력이 모든 디코더 레이어에 입력된다.
 ![image](https://user-images.githubusercontent.com/74692845/137571454-c938958c-74f3-4dc4-81ab-db1bda3debe7.png)
