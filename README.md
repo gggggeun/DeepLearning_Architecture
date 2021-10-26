@@ -2,7 +2,7 @@
 
 
 
-## 1. Transformer:Attention Is All You Need (1주차)
+## 1. Transformer:Attention Is All You Need pytorch로 논문 구현하기(1주차) 
 
 논문
 - https://arxiv.org/abs/1706.03762
@@ -19,7 +19,13 @@
 참고 깃허브
 - https://github.com/huggingface/transformers
 
-## 2. GPT (2주차)
+
+## 2. Transformer 모델 챗봇 실습하기 (2주차)
+
+- 위로로 답해주는 챗봇
+- 데이터셋 : https://github.com/songys/Chatbot_data
+
+## 2. GPT (예정)
 
 논문 
 - https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
@@ -28,7 +34,7 @@
 - https://lsjsj92.tistory.com/617 (논문리뷰)
 - https://dsbook.tistory.com/321 (논문리뷰)
 
-## 3. BERT (3주차)
+## 3. BERT ()
 
 논문
 - https://arxiv.org/abs/1810.04805
